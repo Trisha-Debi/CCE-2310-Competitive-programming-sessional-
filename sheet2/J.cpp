@@ -32,3 +32,4 @@ int main()
         if(a[i]) cout << i << " ";
     }
 }
+
