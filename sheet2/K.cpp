@@ -1,3 +1,6 @@
+//Course title:Competitive programming Sessional
+//Course code:CCE-2310
+//Course teacher:Mirza Raquib
 #include<bits/stdc++.h>
 using namespace std;
  int main()
@@ -27,3 +30,4 @@ using namespace std;
 
 
  }
+
